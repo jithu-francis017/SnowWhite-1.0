@@ -1,0 +1,55 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["hello", "hi", "hey", "good morning", "good afternoon","wake up","snow white"],
+        "responses": ["Hello! How can I assist you?", "Hi! How can I help you today?", "Hey there! What can I do for you?"]
+      },
+      {
+        "tag": "bye",
+        "patterns": ["bye", "goodbye", "see you later","sleep","exit"],
+        "responses": ["Goodbye! Have a great day!", "Take care! See you soon.", "See you later!"]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["thank you", "thanks", "appreciate it"],
+        "responses": ["You're welcome!", "No problem!", "Glad I could help."]
+      },
+      {
+        "tag": "open",
+        "patterns": ["open", "start", "launch","visit"],
+        "responses": ["open"]
+      },
+      {
+        "tag": "health",
+        "patterns": ["how are you", "how you", "are you fine?","are you good"],
+        "responses": ["fine.", "perfect","cool","like you","I am fine. How about you?"]
+      },
+      {
+        "tag": "jokes",
+        "patterns": ["tell me a joke", "say something funny", "make me laugh"],
+        "responses": ["Why was the math book sad? Because it had too many problems.", "Why did the tomato turn red? Because it saw the salad dressing!"]
+      },
+      {
+        "tag": "time",
+        "patterns": ["tell me the time", "time", "what is the time","what's the time","what is time now"],
+        "responses": ["time"]
+      },
+      {
+        "tag": "date",
+        "patterns": ["tell me the date","tell me today's date", "date", "what is the date","what's the date"],
+        "responses": ["date"]
+      },
+      {
+        "tag": "wikipedia",
+        "patterns": ["who is","tell me about", "about", "what is","wikipedia"],
+        "responses": ["wikipedia"]
+      },
+      {
+        "tag": "google",
+        "patterns": ["google search","google", "search"],
+        "responses": ["google"]
+      }
+    ]
+      
+}

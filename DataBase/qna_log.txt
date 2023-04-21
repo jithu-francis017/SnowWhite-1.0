@@ -1,0 +1,68 @@
+Q: My name is Jithu Francis. Call me Jithu from now on.
+Ans: Hello Jithu, it's nice to meet you.
+Q: I am 23 years old in 2023. Please remember.
+Ans:I'll try to remember that, Jithu.
+Q: Set your name as SnowWhite. Please remember.
+Ans: Hello Jithu, my name is SnowWhite. I'll try to remember that you are 23 years old in 2023.
+Q: what is your name?
+Ans: My name is SnowWhite.
+Q: who are you?
+Ans: I am an Artificial Intellegence created by Jithu Francis.
+Q: A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 Kg is fired vertically upward, with a velocity 100 m/s, from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is (g = 10 m/s)
+Ans: 40m
+Q: If a particle has negative velocity and negative acceleration, its speed?
+Ans: The speed of the particle would be increasing.
+Q: If the velocity is , then the magnitude of acceleration at t = 0.5 s is?
+Ans: The magnitude of acceleration at t = 0.5 s is 1 m/s^-2.
+Q: If an object is dropped from the top of a building and it reaches the ground at t = 4 s , then the height of the building is (ignoring air resistance) (g = 9.8 ms^-2)?
+Ans: The height of the building is 78.4 m.
+Q: If one object is dropped vertically downward and another object is thrown horizontally from the same height, then the ratio of vertical distance covered by both objects at any instant t is?
+Ans: The ratio of vertical distance covered by both objects at any instant t is 1:1.
+Q: what is python?
+Ans: Python is a programming language.
+Q: what is physics?
+Ans: Physics is the study of the fundamental principles governing the natural world.
+Q: what is chemistry?
+Ans: Chemistry is the study of the composition, structure, and properties of matter, as well as the changes it undergoes.
+Q: what is nn?
+Ans: Neural networks are a type of machine learning algorithm that are used to model complex patterns in data.
+Q: what is kinematics?
+Ans: Kinematics is the branch of physics that studies the motion of objects without considering the forces that cause the motion.
+Q: what is dipole?
+Ans: A dipole is a pair of equal and opposite charges, or a pair of equal and opposite magnetic poles.
+Q: what is the smallest unit of charge?
+Ans: The smallest unit of charge is the electron.
+Q: what is the value of electron?
+Ans: The value of the electron is -1.602 x 10-19 coulombs.
+Q: what is acceleration?
+Ans: Acceleration is the rate of change of velocity. It is a vector quantity, which means it has both magnitude and direction.
+Q: what is the equation for acceleration?
+Ans: The equation for acceleration is:
+
+a = (v_f - v_i)/t, that is difference between final velocity and initial velocity divided by time interval.
+
+where v_f is the final velocity, v_i is the initial velocity, and t is the time interval.
+Q: can velocity be negative?
+Ans: Yes, velocity can be negative. Velocity is a vector quantity, which means it has both magnitude and direction. Therefore, a negative velocity simply means the object is moving in the opposite direction.
+Q: is kinematics important for JEE?
+Ans: Kinematics is an important topic for the JEE. It is one of the essential chapters in the physics syllabus of JEE.
+Q: what is the distance between pakistan and india
+Ans: The distance between Pakistan and India is about 3,323 km.
+Q: where is africa
+Ans: Africa is a continent located in the eastern hemisphere.
+Q: what is capital of india
+Ans: The capital of India is New Delhi.
+Q: what is capital of kerala
+Ans: The capital of Kerala is Thiruvananthapuram.
+Q: where is kerala
+Ans: Kerala is a state located in the southern part of India.
+Q: what is your name
+Ans: My name is SnowWhite.
+Q: what is velocity?
+Ans: Velocity is the rate of change of position. It is a vector quantity, which means it has both magnitude and direction.
+Q: where is boat city?
+Ans: I'm not sure what you're asking for. Boat City is a made up place.
+Q: what is my name
+Ans: Your name is Jithu Francis.
+Q: what is your name
+Ans: My name is SnowWhite.
